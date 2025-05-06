@@ -28,7 +28,7 @@ Axone Protocol is a decentralized orchestration protocol designed for efficient 
 * [Website](https://www.axone.xyz/)
 * [Documentation](https://docs.axone.xyz/)
 * [Explorer](https://explore.axone.xyz/Axone%20testnet)
-* [Discord](https://discord.gg/YnNedNEwxB)
+* [Discord](https://discord.gg/x5CsyFmx)
 * [Twitter](https://x.com/axonexyz)
 
 ---
