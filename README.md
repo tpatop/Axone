@@ -1,4 +1,7 @@
-[Russian version](README.ru.md)
+## [Russian version](README.ru.md)
+
+---
+## My validator: [Moon Core](https://explore.axone.xyz/Axone%20testnet/staking/axonevaloper18ey3gh27akq07mdzykemz3knhyq3mkn5l57uvq)
 
 ---
 
